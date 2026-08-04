@@ -1,0 +1,23 @@
+{
+  "name": "shoppersstack-ui-automation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Akhilesh-SDET/shoppersstack-ui-automation.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Akhilesh-SDET/shoppersstack-ui-automation/issues"
+  },
+  "homepage": "https://github.com/Akhilesh-SDET/shoppersstack-ui-automation#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.62.1",
+    "@types/node": "^26.1.2"
+  }
+}
